@@ -1,1 +1,2 @@
 KartTest
+This program for an Arduino tests a CBD Kart for OPEN, SHORT, and GOOD conditions.
